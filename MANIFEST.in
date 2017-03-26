@@ -1,0 +1,2 @@
+recursive-include flask_and_setup_sample *.html *.css
+include LICENSE.txt
